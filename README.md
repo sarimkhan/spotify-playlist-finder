@@ -9,14 +9,13 @@
 ## Rules
 - You may only use the libraries provided in the "/vendor" directory.
 - Feel free to use online resources to help you
-- You will have 48 hours to complete this assignment
-- ### DO NOT TOUCH ANYTHING IN THE _**/vendor**_ DIRECTORY or _**config.js**_
+- ### You should not have to alter any files in the _**/vendor**_ directory or _**config.js**_
 
 
 <br>
 
 ## Guide
-- Branch this repo on github and commit/push your changes to your branched repo.
+- Fork this repo on github and commit/push your changes to your forked repo.
 - This project is configured using requirejs. Look at the code provides to see how to define AMD modules.
 - _**lib/main.js**_ is the entry point of the app.
 
