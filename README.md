@@ -4,6 +4,8 @@
 
 2) Make the items clickable. When a user clicks the item, query the spotify api to get a list of that categories playlists and display those to the user as a popup. No need to make this data pretty you can leave it as raw data. Documentation can be found here: https://developer.spotify.com/documentation/web-api/reference/#endpoint-get-a-categories-playlists
 
+3) The purpose of this assignment is to see how you structure your code and your general practices as a developer. Though you may be able to find solutions to this assignment online, we advise you to do this on your own. You can use resources to help understand Jquery, and any of the other libraries provided. We see this assignment as an oppurtunity for you to showcase your abilities and create something unique that will help you stand out. If you have any questions feel free to contact us.
+
 <br>
 
 ## Rules
